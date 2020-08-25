@@ -1,2 +1,2 @@
 # deep-learning
-小郑同学的深度学习代码库
+小郑同学的深deep-learning代码库
